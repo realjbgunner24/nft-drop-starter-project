@@ -12,7 +12,7 @@ const App = () => {
       <div className="container">
         <div className="header-container">
           <p className="header">🍭 Changed name
-          <div>I am not sure why this is taking so long to update</div></p>
+          <div>Taking extra long to update not sure why</div></p>
           <p className="sub-text">NFT drop machine with fair mint</p>
         </div>
         <div className="footer-container">
