@@ -11,7 +11,7 @@ const App = () => {
     <div className="App">
       <div className="container">
         <div className="header-container">
-          <p className="header">🍭 Changed name
+          <p className="header">🍭new change
           <div>Taking extra long to update not sure why</div></p>
           <p className="sub-text">NFT drop machine with fair mint</p>
         </div>
